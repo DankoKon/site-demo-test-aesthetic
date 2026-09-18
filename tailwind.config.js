@@ -8,6 +8,19 @@ export default {
         body: ['Inter', 'sans-serif'],
       },
       colors: {
+        // Добавленная палитра cream
+        cream: {
+          50: '#FAF7F2',
+          100: '#F5EFE6',
+          200: '#EBE0D0',
+          300: '#DFCEB5',
+          400: '#D2B997',
+          500: '#C4A37A',
+          600: '#B28C5E',
+          700: '#8F6E45',
+          800: '#6E5333',
+          900: '#4D3923',
+        },
         gold: {
           50: '#fffbeb',
           100: '#fef3c7',
